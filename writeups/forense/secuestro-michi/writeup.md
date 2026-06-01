@@ -71,9 +71,6 @@ Archivos relevantes:
 - `246775`: `revendications.odt` (marcado como borrado `*`)
 - otros archivos: `421_20080208011.doc`, `Coker.doc`, etc.
 
-**Imagen 1 — Listado del directorio Files con fls**
-![fls archivos](imagenes/01-fls-archivos.jpg)
-
 ## Extracción del documento ODT
 
 ```bash
@@ -102,8 +99,8 @@ unzip revendications.odt -d extract
 Ruta de la imagen:
 - `Pictures/1000000000000CC000000990038D2A62.jpg`
 
-**Imagen 2 — Imagen extraída del ODT**
-![Imagen ODT](imagenes/02-imagen-odt.jpg)
+<img width="3264" height="2448" alt="1000000000000CC000000990038D2A62" src="https://github.com/user-attachments/assets/ebb9abcd-a4bc-4dc5-8063-22caf1725122" />
+
 
 Metadatos EXIF:
 
@@ -131,8 +128,8 @@ Coordenadas decimales:
 
 Lugar identificado: Helfrantzkirch, Francia
 
-**Imagen 3 — Captura de la ubicación en Google Maps**
-![Ubicación GPS](imagenes/03-ubicacion-gps.jpg)
+<img width="1380" height="673" alt="260531_21h16m18s_screenshot" src="https://github.com/user-attachments/assets/fc6c9cb4-e5ff-4ce1-a9b2-87066b30a253" />
+
 
 ## Cálculo de la flag
 
