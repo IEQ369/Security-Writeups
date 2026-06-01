@@ -48,19 +48,10 @@ Digital Pop sin copyright.mp3: Audio file with ID3 version 2.4.0, contains: MPEG
 ## Análisis del espectrograma
 Se abre el MP3 en Audacity. No hace falta escuchar toda la canción; en una sección específica del espectrograma aparece el texto `3spectr0gram4`.
 
-> El archivo está ubicado en `/home/qwerty/Screenshots/` con los nombres:
-> - `260531_21h52m50s_screenshot.png`
-> - `260531_21h53m45s_screenshot.png`
-> - `260531_21h54m01s_screenshot.png`
+<img width="1886" height="559" alt="260531_21h53m45s_screenshot" src="https://github.com/user-attachments/assets/7954cc28-9d57-48e2-9f5f-e1cf144ea04f" />
 
-**Imagen 1 — Espectrograma completo en Audacity**
-![Audacity espectrograma](/home/qwerty/Screenshots/260531_21h52m50s_screenshot.png)
+<img width="392" height="333" alt="260531_21h54m01s_screenshot" src="https://github.com/user-attachments/assets/23aa9679-afa0-4e7f-acb4-52a0c7fdf7a8" />
 
-**Imagen 2 — Zoom a la sección del mensaje oculto**
-![Zoom mensaje](/home/qwerty/Screenshots/260531_21h53m45s_screenshot.png)
-
-**Imagen 3 — Detalle del texto `3spectr0gram4` en el espectrograma**
-![Detalle texto](/home/qwerty/Screenshots/260531_21h54m01s_screenshot.png)
 
 ## Procedimiento
 1. Extraer `Musica.zip` para obtener el MP3.
