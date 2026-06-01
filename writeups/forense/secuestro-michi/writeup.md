@@ -2,7 +2,7 @@
 
 - Plataforma: CTF CGII/AGETIC (ctf.cgii.gob.bo)
 - Categoría: Forense
-- Puntos: 290
+- Puntos: medium
 - Fecha: 2026-05-31
 - Tags: #forense #zip #odt #exiftool #gps #fls #icat
 

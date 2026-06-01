@@ -2,7 +2,7 @@
 
 - Plataforma: CTF CGII/AGETIC (ctf.cgii.gob.bo)
 - Categoría: Esteganografía
-- Puntos: 300
+- Puntos: medium
 - Fecha: 2026-05-31
 - Tags: #steganography #jpeg #steghide #obfuscation
 
