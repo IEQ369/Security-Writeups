@@ -1,10 +1,13 @@
 # Security-Writeups
-Repositorio de writeups de retos CTF y prácticas de seguridad.
+
+Repositorio de resoluciones de CTFs y prácticas de seguridad.  
+No debe usarse como guía paso a paso ni como documentación instructiva; es únicamente informativo.
 
 ## Estructura
 - `writeups/`: resoluciones organizadas por categoría
-- `templates/`: plantillas para nuevos writeups
-- `references/`: metodología y referencias reutilizables
+- `templates/`: plantillas base para nuevos writeups
+- `references/`: referencias internas
 
-## Cómo usar
-Copiar `templates/writeup-template.md` y completar cada reto en su carpeta.
+## Criterios
+- Cada carpeta representa un reto resuelto.
+- Se prioriza: plataforma, categoría, procedimiento y resultado final.
