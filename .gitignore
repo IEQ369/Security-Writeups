@@ -141,3 +141,10 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Obsidian vault metadata
+.obsidian/
+.trash/
+.smart-env/
+*.canvas
+*.excalidraw.md
