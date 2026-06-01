@@ -23,7 +23,7 @@ Datos relevantes:
 - Copyright: "Aqui no hay nada... AGETIC te puede ser de utilidad"
 
 ## Extracción
-Ejecutamos `steghide` contra la imagen. Pide passphrase; en este reto la deja vacía.
+Ejecutamos `steghide` contra la imagen. Pide passphrase que es "AGETIC" según el mensaje del Copyright.
 
 ```bash
 steghide extract -sf Topografia.jpg
