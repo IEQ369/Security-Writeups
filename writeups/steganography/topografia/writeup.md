@@ -12,6 +12,8 @@ Reto de esteganografía donde la flag estaba oculta dentro de una imagen JPEG me
 ## Material
 - `Topografia.jpg` (1200x1200, JPEG)
 
+<img width="1200" height="1200" alt="Topografia" src="https://github.com/user-attachments/assets/e6ff9875-b6c5-4512-9cc8-4e6e4b288c80" />
+
 ## Reconocimiento
 ```bash
 exiftool Topografia.jpg
