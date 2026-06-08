@@ -3,6 +3,7 @@
 - Plataforma: CTF CGII/AGETIC (ctf.cgii.gob.bo)
 - Categoría: Esteganografía
 - Puntos: 100
+- nivel: Facil
 - Fecha: 2026-06-07
 - Tags: #steganography #binwalk #squashfs #png #visual
 
