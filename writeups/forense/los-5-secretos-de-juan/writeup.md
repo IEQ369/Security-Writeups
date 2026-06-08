@@ -92,6 +92,9 @@ Observaciones importantes:
 
 ## Análisis de `secret4`
 
+<img width="728" height="546" alt="secret4" src="https://github.com/user-attachments/assets/70aeaa26-c1b9-4240-b385-6be451407fa8" />
+
+
 ### 1. Archivo
 
 - Nombre: `secret4.jpg`
@@ -131,7 +134,8 @@ Resultado: `CITC2024{Th3_Sh4m4n_s3cr3t_fl@g}`
 
 ## Flag
 
-```cidsi{Th3_Sh4m4n_s3cr3t_fl@g}
+```
+cidsi{Th3_Sh4m4n_s3cr3t_fl@g}
 ```
 
 Formato bruto:
