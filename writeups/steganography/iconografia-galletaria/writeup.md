@@ -43,9 +43,13 @@ Archivo relevante:
 
 Se abre la imagen para inspección visual directa y se identifica la flag escrita en el PNG.
 
+<img width="256" height="240" alt="ui-icons_cd0a0a_256x240" src="https://github.com/user-attachments/assets/c8e464ae-bf48-4843-bc1b-1a66c181f037" />
+
+
 ## Flag
 
-```cidsi{b3bc634eaecec30651ca8b55eff512fe}
+```
+cidsi{b3bc634eaecec30651ca8b55eff512fe}
 ```
 
 ## Notas
