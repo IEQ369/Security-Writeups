@@ -27,7 +27,10 @@ En los metadatos no hay nada, así que el camino es analizar el contenido visual
 La imagen muestra figuras humanas con distintas posturas:
 - Cada figura equivale a una letra del alfabeto.
 - Se compara con la referencia de Dancing Men:
-  - https://kryptografie.de/kryptografie/chiffre/dancing-men-code.htm
+
+<img width="455" height="180" alt="dancing-men-code3" src="https://github.com/user-attachments/assets/8241e218-f9ca-4a09-805b-dbf87eda690b" />
+
+
   - Específicamente la imagen del sitio que corresponde al reto.
 
 Mapeo de símbolos a letras (según la referencia y las repeticiones observadas):
