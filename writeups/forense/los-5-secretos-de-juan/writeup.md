@@ -115,14 +115,18 @@ La imagen es una foto de Snoopy. Se procede a probar esteganografía.
 
 #### 3.3. Extracción
 
+Se extrae el archivo oculto con `steghide` y la clave obtenida del contexto del reto:
+
 ```bash
-steghide extract -sf secret4.jpg
+steghide extract -sf secret4.jpg -p 'aazip'
 ```
 
 Resultado:
 ```
 wrote extracted data to "secret.txt"
 ```
+
+El archivo recién extraído es el que contiene la flag final.
 
 #### 3.4. Lectura del contenido extraído
 
