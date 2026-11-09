@@ -1,22 +1,23 @@
-# Writeup: <titulo>
+# Nombre del reto
 
-- Plataforma: <TryHackMe / HackTheBox / PicoCTF / CTIC / Custom>
-- Categoría: <Web / Crypto / Stego / Forense / Misc / Pwn>
-- Dificultad: <Easy / Medium / Hard>
-- Fecha: <AAAA-MM-DD>
-- Tags: #web #xss #sqli
+- Plataforma o competencia:
+- Categoría:
+- Puntos:
+- Estado: pendiente / parcial / verificado localmente / aceptado
+- Material necesario:
 
-## Resumen
-Breve descripción del reto y objetivo.
+## Enunciado
 
-## Reconocimiento
-...
+## Qué observé y por dónde empecé
 
-## Explotación / Procedimiento
-...
+## Resolución paso a paso
 
-## Flag
-`<flag o archivo requerido>`
+Explica qué indicio justifica cada paso, el comando o herramienta y cómo interpretar su salida.
 
-## Notas adicionales
-...
+## Resultado y validación
+
+Distingue un resultado local de una flag aceptada. Conserva las candidatas rechazadas como tales.
+
+## Qué aprendí
+
+## Referencias
